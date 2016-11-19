@@ -121,7 +121,7 @@ class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> {
         // Add the new movies to the existing dataset
         dataSet.addAll(newMovies);
         // Notify the adapter of the new movies and their range
-        notifyItemRangeChanged(firstNewPosition, totalNewMovies);
+        notifyItemRangeInserted(firstNewPosition, totalNewMovies);
     }
 
     /**

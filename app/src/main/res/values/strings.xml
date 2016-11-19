@@ -28,7 +28,7 @@
     <string name="sort_by_query">sort_by</string>
     <string name="api_key_query">api_key</string>
     <string name="page_query">page</string>
-    <string name="api_key" translatable="false">ENTER API KEY HERE</string>
+    <string name="api_key" translatable="false">e6dfd67cca79e834c3c68f729e937f64</string>
     <string name="movie_order" translatable="false">popularity.desc</string>
     <string name="poster_root">http://image.tmdb.org/t/p/w500%1$s</string>
 </resources>
