@@ -7,7 +7,7 @@
 
     <!-- About page strings -->
     <string name="about_the_app">This app was developed by Michael Cavalli for the coding challenge provided by Vectorform. The goal if this app was to follow Vectorform\'s direction in developing an app that uses the TMDb Database to acquire information about popular movies and transforms that information into a list display.  This was accomplished by using multiple Android libraries such as Volley, Gson, and Glide.  There was also a focus on using the Singleton programming design.</string>
-    <string name="attribution">Information for this app was acquired from themoviedb.org\'s movie database.  Icons were used from the Google open source material design library. </string>
+    <string name="attribution">This product uses the TMDb API but is not endorsed or certified by TMDb.  Icons were used from the Google open source material design library. </string>
 
     <!-- Card format strings -->
     <string name="release_date_text">Release date: %1$s</string>
